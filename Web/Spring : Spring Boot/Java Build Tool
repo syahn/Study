@@ -1,0 +1,15 @@
+# Java Build Tool
+
+빌드 툴이 무엇인가?
+
+- Automation of developer tasks
+  - Ant
+    - XML configuration
+  - Maven
+    - Dependency Mangement
+    - Plugin-Based Architecture
+    - XML configuration
+  - Gradle
+    - Builds on Ant & Maven
+    - Groovy Based DSL
+    - Bulti-Project Builds
