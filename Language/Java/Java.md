@@ -95,7 +95,7 @@ Scanner reader = new Scanner(System.in);
 
 
 
-### OOP
+## OOP
 
 - 모든 default는 package-private
 
@@ -143,9 +143,16 @@ Scanner reader = new Scanner(System.in);
   - abstract method는 body가 없고, 상속받은 클래스에서만 사용해야 한다.
   - 하나 이상의 추상 매서드 포함
 
+- #### Super
+
+  - Overriding한 super class의 매서드를 호출할 수 있음
+    - `super.func()`
 
 
-#### Collections
+
+
+
+## Collections
 
 - object만 저장할 수 있음, primitive 저장 못함
 
